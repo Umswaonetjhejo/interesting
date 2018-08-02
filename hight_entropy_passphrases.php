@@ -518,7 +518,6 @@
 		'spjb xkkak anuvk ejoklh nyerw bsjp zxuq vcwitnd xxtjmjg zfgq xkpf',
 		'juo pmiyoh xxk myphio ogfyf dovlmwm moevao qqxidn'
 	);
-	//4 valid and 2 invalid.
 	
 	//Declare valid variable
 	$valid   = 0;
