@@ -1,2 +1,2 @@
 # interesting
-Solved 2 tasked from adventofcode.com
+Solved 2 taskes from adventofcode.com
